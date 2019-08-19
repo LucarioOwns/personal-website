@@ -1,0 +1,60 @@
+* {
+  	/*margin: 0;
+	padding: 0;*/
+	box-sizing: border-box;
+   	/*border: 1px solid black; */
+   	color: #FFD700;
+   	
+}
+
+body {
+	background-image: url('https://www.tokkoro.com/picsup/5767200-dragon-ball-super-wallpapers.jpg');
+	font-family: 'Bubblegum Sans', cursive;
+	opacity: 0.9;
+	}
+
+.pic {
+	height: 200px;
+	border-radius: 50%;
+	border: solid 5px rgb(221, 213, 213, 0.3);
+}
+
+.fas {
+	display: flex;
+	align-items: center;
+	/*padding-top: 40px;*/
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	color: #e5e4e2;	
+}
+
+h1 {
+	color: red;
+}
+
+h4 {
+	color: red;
+}
+
+h5 {
+
+	color: red;
+}
+
+.primary-text {
+	color: #e5e4e2;	
+}
+
+.about-me {
+	width: 700px;
+	font-family: 
+}
+
+.small-header p {
+	font-weight: bold;
+	font-size: 100px;
+}
+
+i {
+	margin-bottom: 10px;
+}
